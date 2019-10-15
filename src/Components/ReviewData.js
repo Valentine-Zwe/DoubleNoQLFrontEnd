@@ -16,6 +16,7 @@ const ReviewData = [
     imUrl: "https://images-na.ssl-images-amazon.com/images/I/81WWiiLgEyL._AC_UL200_SR200,200_.jpg",
     author: "Delia Owens",
     rating: 4.7,
+    // genre: ...
   },
 
   {
